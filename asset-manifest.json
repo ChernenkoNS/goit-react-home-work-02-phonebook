@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-home-work-02-phonebook/static/css/main.4033d2e7.css",
+    "main.js": "/goit-react-home-work-02-phonebook/static/js/main.f583930b.js",
+    "index.html": "/goit-react-home-work-02-phonebook/index.html",
+    "main.4033d2e7.css.map": "/goit-react-home-work-02-phonebook/static/css/main.4033d2e7.css.map",
+    "main.f583930b.js.map": "/goit-react-home-work-02-phonebook/static/js/main.f583930b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4033d2e7.css",
+    "static/js/main.f583930b.js"
+  ]
+}
